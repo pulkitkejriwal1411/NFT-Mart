@@ -1,0 +1,73 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body{
+    background: #8202d1;
+    color:#fff;
+}
+nav{
+    background: #4f0080;color: #fff;
+    padding-left: 10px;
+}
+.mt-4{display: flex;justify-content: space-between;padding: 0 10px 10px 0;}
+.text-white{
+    font-size: 30px;
+    font-weight: 600;
+}
+.create-digital{
+    font-size: 14px;
+    border: 2px solid #fff;
+    padding: 10px;
+    margin: auto;
+}
+.digital-parent-div{
+    margin-top: 80px;
+}
+.digital-div{
+    display: flex;
+    flex-direction: column;
+}
+.digital{
+    width: 45%;
+    margin: 0 auto 24px;
+    border-radius: 8px;
+    padding-left: 5px;
+    color: #8202d1;
+}
+.file-attach{
+    margin: 0 auto 20px;
+}
+.home-photo{
+    /* text-align: center; */
+    margin: 10px auto 10px;
+    width: 70%;
+}
+.border
+{
+    margin: 20px auto 0;
+    text-align: center;
+    border: 2px solid #fff;
+    width: 70%;
+}
+.name
+{
+    font-size: 30px;
+    color: chartreuse;
+}
+.price-text{
+    font-weight: normal;
+    font-size: 14px;
+}
+.buy-button{
+    font-weight: normal;
+    font-size: 14px;
+    border: 2px solid #fff;
+    padding: 10px;
+    margin: 10px auto 10px;
+}
+.items{
+    font-size: 30px;
+    font-weight: 600;
+    text-align: center;
+    margin:20px 0;
+}
