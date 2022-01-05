@@ -1,6 +1,6 @@
 # NFT-Mart
 
-A NFT Marketplace to sell and buy NFTs. 
+A NFT Marketplace where you can sell and buy NFTs. 
 
 ### Instructions to run:
 
