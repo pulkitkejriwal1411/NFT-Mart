@@ -1,5 +1,7 @@
 # NFT-Mart
 
+A NFT Marketplace to sell and buy NFTs. 
+
 ### Instructions to run:
 
 1. Clone the project locally, change into the directory, and install the dependencies (npm install)
